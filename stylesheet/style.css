@@ -1,0 +1,107 @@
+*{
+    text-align: center;
+    background-color: black;
+    color: while;
+}
+.profile{
+    text-align: center;
+}
+h1{
+    background-color: white;
+    padding: 10px;
+    margin: 10px 500px;
+    color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.box {
+    background-color: #fff;
+    border: 2px solid cyan;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 10px;
+    width: 250px;
+    text-align: center;
+}
+
+
+.box p, a, i{
+    background-color: white;
+}
+.box h3 {
+    color: cyan;
+    padding: 10px;
+    background-color: black;
+}
+h2{
+    background-color: #ffffff;
+    padding: 10px;
+    margin: 10px 50px;
+    color: aqua;
+}
+.contact{
+    border: 2px solid aqua;
+    padding: 20px;
+    margin: 20px 0;
+    background-color: black;
+    color: aqua;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+}
+.skill{
+    border: 2px solid aqua;
+    padding: 20px;
+    margin: 20px 0;
+    background-color: black;
+    color: aqua;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+}
+.skill-text{
+    color: white;
+}
+
+.personality{
+    border: 2px solid aqua;
+    padding: 20px;
+    margin: 20px 0;
+    background-color: black;
+    color: aqua;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+}
+.personal{
+    color: white;
+}
+
+footer{
+       color: white;
+}
+a{
+    color: black;
+    
+}
+a:hover{
+    color: aqua;
+}
+
+i{
+    color: aqua;
+    
+}
+footer a{
+    color:white;
+    background-color: black;;
+}
+.address i{
+    font-size: 15px;
+}
+footer i{
+    font-size: 30px;;
+    background-color: black;
+}
